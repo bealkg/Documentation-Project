@@ -1,4 +1,6 @@
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Fsearch%3Fclipart%3D2048&psig=AOvVaw2j7zE3I-FKaKTE2L2quIv3&ust=1651103467314000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiT0PD1svcCFQAAAAAdAAAAABAD.png)
+<img src="2048.png" 
+     width="600" 
+     height="200" />
 # Documentation Project DRAFT
 ##### Katherine Beal
 ## Introduction
