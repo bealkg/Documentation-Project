@@ -4,7 +4,8 @@
 # Documentation Project DRAFT
 ##### Katherine Beal
 ## Introduction
-The app 2048 is a single-player video game. The puzzle game has sliding tiles with different powers of 2. When two tiles with the same number are slid into one another, they combine into the next power of two. The goal of the game is to get the 2048 tile, or combine tiles of 2 11 times.
+The app 2048 is a single-player video game. The puzzle game has sliding tiles with different powers of 2. When two tiles with the same value slide into one another, they combine to create the next power of two. The goal of the game is to get the 2048 tile, or combine tiles of 2 11 times.
+
 ## Installation
 2048 is available on Web browser, iOS, and Android. Many more downloads of the game exist, but they are not the original version and should be downloaded and used with caution. 
 
@@ -18,8 +19,19 @@ Android
 >To download 2048 on Android, search 2048 on the Android app store. 
 
 ## Instructions
-To play 2048, on the web browser, use the arrow keys to move the blocks on the screen. If on Android or iOS, swipe the screen to move the blocks. The goal is to combine the generated blocks into the 2048 block by moving matching numbers into one another. The game will generate 2 and 4 blocks with every move. Use the blocks generated to create bigger numbers. The game will end when the screen is full and none of the block can combine. Good Luck!
 
+Web Browser
+>1. Go to the link above. 
+>2. Use the arrow keys to slide the blocks on the screen. The up arrow will slide all the blocks on the screen up, the left arrow to the left, and so on.
+>3. The game will automatically generate 2 and 4 blocks with every move. Use the blocks to create bigger numbers. 
+>4. The game will end when the screen is full and none of the blocks can combine. Good Luck!
+     
+iOS or Android
+>1. Open the application.
+>2. Use your finger to slide the blocks on the screen. Swipe up to slide all the blocks on the screen up, swipe left to slide the blocks to the left, and so on. 
+>3. The game will automatically generate 2 and 4 blocks with every move. Use the blocks to create bigger numbers. 
+>4. The game will end when the screen is full and none of the blocks can combine. Good Luck!
+     
 ## FAQ
 I got the 2048 block. Now what?
 > Congrats! You can keep playing and combine to even higher numbers.
