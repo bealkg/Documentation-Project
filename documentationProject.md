@@ -33,13 +33,13 @@ Web Browser
 >1. Go to the link above. 
 >2. Use the arrow keys to slide the blocks on the screen. The up arrow will slide all the blocks on the screen up, the left arrow to the left, and so on.
 >3. The game will automatically generate 2 and 4 blocks with every move. Use the blocks to create bigger numbers. 
->4. The game will end when the screen is full and none of the blocks can combine. Good Luck!
+>4. The game will end when the screen is full and none of the blocks can combine. 
      
 iOS or Android
 >1. Open the application.
 >2. Use your finger to slide the blocks on the screen. Swipe up to slide all the blocks on the screen up, swipe left to slide the blocks to the left, and so on. 
 >3. The game will automatically generate 2 and 4 blocks with every move. Use the blocks to create bigger numbers. 
->4. The game will end when the screen is full and none of the blocks can combine. Good Luck!
+>4. The game will end when the screen is full and none of the blocks can combine.
      
 ## FAQ
 I got the 2048 block. Now what?
@@ -48,6 +48,10 @@ I got the 2048 block. Now what?
 How high do the numbers go?
 > Theoretically, 131072 is possible, but extremely unlikely because the board is limited to only 16 squares. To get 131072, the board would need 65536, 32768, 16384, 8192, 4096, 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 4, which would fill the entire 16 squares. 
 
+##Good Luck!
 
+<img src="win2048.png" 
+     width="300" 
+     height="600" />
 [//]: # (Links)
 [p]: <https://play2048.co/>
