@@ -1,7 +1,7 @@
 <img src="2048.png" 
      width="600" 
      height="200" />
-# Documentation Project DRAFT
+# Documentation Project
 ##### Katherine Beal
 ## Introduction
 The app 2048 is a single-player video game. The puzzle game has sliding tiles with different powers of 2. When two tiles with the same value slide into one another, they combine to create the next power of two. The goal of the game is to get the 2048 tile, or combine tiles of 2 11 times.
@@ -48,10 +48,11 @@ I got the 2048 block. Now what?
 How high do the numbers go?
 > Theoretically, 131072 is possible, but extremely unlikely because the board is limited to only 16 squares. To get 131072, the board would need 65536, 32768, 16384, 8192, 4096, 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 4, which would fill the entire 16 squares. 
 
-##Good Luck!
-
 <img src="winner2048.png" 
      width="600" 
-     height="300" /> < />
+     height="300" /> 
+     
+## Good Luck!     
+     
 [//]: # (Links)
 [p]: <https://play2048.co/>
