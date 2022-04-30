@@ -50,8 +50,8 @@ How high do the numbers go?
 
 ##Good Luck!
 
-<img src="win2048.png" 
-     width="300" 
-     height="600" />
+<img src="winner2048.png" 
+     width="600" 
+     height="300" /> < />
 [//]: # (Links)
 [p]: <https://play2048.co/>
