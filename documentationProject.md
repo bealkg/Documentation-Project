@@ -10,13 +10,22 @@ The app 2048 is a single-player video game. The puzzle game has sliding tiles wi
 2048 is available on Web browser, iOS, and Android. Many more downloads of the game exist, but they are not the original version and should be downloaded and used with caution. 
 
 Web Browser
->To use 2048 on a web browser, go to the following [link][p].
+>To use 2048 on a web browser, go to the following [link][p]. <br />
+<img src="web2048.png" 
+     width="450" 
+     height="600" />
 
 iOS
 >To download 2048 on iOS, search 2048 in the Apple App store.
+<img src="apple2048.png" 
+     width="600" 
+     height="250" />
 
 Android
 >To download 2048 on Android, search 2048 on the Android app store. 
+<img src="google2048.png" 
+     width="600" 
+     height="200" />
 
 ## Instructions
 
@@ -37,7 +46,7 @@ I got the 2048 block. Now what?
 > Congrats! You can keep playing and combine to even higher numbers.
 
 How high do the numbers go?
-> Theoretically, 131072 is possible, but unlikely because the board is limited to only 16 squares. To get 131072, the board would need 65536, 32768, 16384, 8192, 4096, 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 4, which would fill the entire 16 squares. 
+> Theoretically, 131072 is possible, but extremely unlikely because the board is limited to only 16 squares. To get 131072, the board would need 65536, 32768, 16384, 8192, 4096, 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 4, which would fill the entire 16 squares. 
 
 
 [//]: # (Links)
